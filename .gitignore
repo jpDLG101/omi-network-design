@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales de editores/sistema
+*.swp
+*.swo
+*~
+
+# Logs y temporales generales
+*.log
+*.tmp
+*.temp
